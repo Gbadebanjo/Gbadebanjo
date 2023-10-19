@@ -1,11 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Oluwagbogo Adebanjo</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria✅</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/Fg1M.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbadebanjo&label=Profile%20views&color=0e75b6&style=flat" alt="gbadebanjo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbadebanjo" alt="gbadebanjo" /></a> </p>
 
 - 🔭 I’m currently working on [IT 24/7](https://github.com/Gbadebanjo/IT-247)
 
