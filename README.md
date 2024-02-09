@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Nigeria✅</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/Fg1M.gif">
 
-- 🔭 I’m currently working on [ObaSoles](https://github.com/Gbadebanjo/oba)
+- 🔭 I’m currently working on [ObaSoles](https://github.com/Gbadebanjo/Oba-soles)
 
 - 🌱 I’m currently learning **NestJs**
 
