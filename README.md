@@ -2,9 +2,9 @@
 <h3 align="center">A passionate fullstack developer from Nigeria✅</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/Fg1M.gif">
 
-- 🔭 I’m currently working on [IT 24/7](https://github.com/Gbadebanjo/IT-247)
+- 🔭 I’m currently working on [ObaSoles](https://github.com/Gbadebanjo/oba)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **NestJs**
 
 - 👯 I’m looking to collaborate on **any user centric applications👌**
 
@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **oluwagbogoadebanjo@gmail.com**
 
-- ⚡ Fun fact **New challenge!!! Bring it on😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +24,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbadebanjo&show_icons=true&locale=en&layout=compact" alt="gbadebanjo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbadebanjo&show_icons=true&locale=en" alt="gbadebanjo" /></p>
