@@ -1,14 +1,6 @@
-<h1 align="center">Hi 👋, I'm Oluwagbogo Adebanjo</h1>
+<h1 align="center">Hi I'm GB</h1>
 <h3 align="center">A passionate fullstack developer✅</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/Fg1M.gif">
-
-- 🔭 I’m currently working on [ObaSoles](https://github.com/Gbadebanjo/Oba-soles)
-
-- 🌱 I’m currently learning **NestJs**
-
-- 👯 I’m looking to collaborate on **any user centric applications👌**
-
-- 💬 Ask me about **React, HTML, CSS, JavaScript, Typescript**
 
 - 📫 How to reach me **oluwagbogoadebanjo@gmail.com**
 
